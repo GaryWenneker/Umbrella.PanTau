@@ -23,17 +23,15 @@ Umbrella for Sitecore JSS is a utility that synchronizes items from your Sitecor
 The package is available on NuGet: [NuGetPackage]
 
 ![Umbrella](https://img.shields.io/badge/Umbrella-%20Sitecore%20JSS-red.svg)
-[![Build Status MASTER](https://dev.azure.com/MacawInteractive/umbrella-for-sitecore-jss/_apis/build/status/Build%20Master?branchName=master)](https://dev.azure.com/MacawInteractive/umbrella-for-sitecore-jss/_build/latest?definitionId=4&branchName=master)
-![downloads](https://img.shields.io/github/downloads/macaw-interactive/umbrella-for-sitecore-jss/total.svg)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Umbrella.PanTau.svg?label=NuGet%20downloads)
-![issues](https://img.shields.io/github/issues/macaw-interactive/umbrella-for-sitecore-jss.svg)
-![issues](https://img.shields.io/github/watchers/macaw-interactive/umbrella-for-sitecore-jss.svg)
-![issues](https://img.shields.io/github/stars/macaw-interactive/umbrella-for-sitecore-jss.svg)
-![issues](https://img.shields.io/github/forks/macaw-interactive/umbrella-for-sitecore-jss.svg)
+![issues](https://img.shields.io/github/issues/garywenneker/Umbrella.PanTau.svg)
+![issues](https://img.shields.io/github/watchers/garywenneker/Umbrella.PanTau.svg)
+![issues](https://img.shields.io/github/stars/garywenneker/Umbrella.PanTau.svg)
+![issues](https://img.shields.io/github/forks/garywenneker/Umbrella.PanTau.svg)
 
 ## Table of Contents
 
-- [Umbrella for Sitecore JSS](#umbrella-for-sitecore-jss)
+- [Umbrella for Sitecore 9.1.1 JSS (12.0.1)](#umbrella-for-sitecore-911-jss-1201)
   - [Table of Contents](#table-of-contents)
   - [Dependency](#dependency)
     - [Umbrella.PanTau](#umbrellapantau)
@@ -188,7 +186,7 @@ Make sure to choose the right version of the package!
 if you want to use the sources:
 
 ```bash
-git clone https://github.com/macaw-interactive/umbrella-for-sitecore-jss
+git clone https://github.com/garywenneker/Umbrella.PanTau
 ```
 
 

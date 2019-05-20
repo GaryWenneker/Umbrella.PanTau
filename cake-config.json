@@ -1,0 +1,14 @@
+{
+  "WebsiteRoot": "C:\\inetpub\\wwwroot\\sc910.sc",
+  "XConnectRoot": "C:\\inetpub\\wwwroot\\sc910.xconnect",
+  "XConnectIndexerRoot": "C:\\inetpub\\wwwroot\\sc910.xconnect\\App_Data\\jobs\\continuous\\IndexWorker",
+  "XConnectAutomationServiceRoot": "C:\\inetpub\\wwwroot\\sc910.xconnect\\App_Data\\jobs\\continuous\\AutomationEngine",
+  "InstanceUrl": "https://sc910.sc/",
+  "SolutionName": "Umbrella.PanTau.sln",
+  "ProjectFolder": "D:\\projects\\_JSS\\Umbrella.Pantau",
+  "BuildConfiguration": "Debug",
+  "BuildToolVersions": "VS2017",
+  "RunCleanBuilds": true,
+  "NuGetVersion": "9.1.1.3",
+  "NuGetAuthors": "Gary Wenneker"
+}
