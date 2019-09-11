@@ -12,8 +12,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Umbrella for Sitecore JSS is a utility that synchronizes items from your Sitecore JSS to your local JSS development environment</description>
     <releaseNotes>
-      Version for Sitecore 9.1.1 and JSS 12.0.1.
-      Fixed null ref issues.
+      Version for Sitecore 9.2.0 and JSS 13.0.0.
     </releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>Sitecore JSS Umbrella</tags>
